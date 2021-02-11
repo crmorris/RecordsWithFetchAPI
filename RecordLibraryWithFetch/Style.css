@@ -1,0 +1,10 @@
+.row {
+    justify-content: center;
+}
+
+.card-body {
+    background-color: black;
+    color: white;
+    margin-left: -15px;
+    margin-right: -15px;
+}
