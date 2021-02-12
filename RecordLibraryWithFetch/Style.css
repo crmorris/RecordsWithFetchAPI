@@ -8,3 +8,9 @@
     margin-left: -1rem;
     margin-right: -1rem;
 }
+
+.btn-primary {
+    background-color: rgb(236,208,10);
+    color: rgb(0,0,0);
+    font-weight: 700;
+}
